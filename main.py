@@ -66,7 +66,7 @@ chessboard = ch.Chessboard()
 
 pygame.init()
 screen = pygame.display.set_mode((800, 800))
-pygame.display.set_caption("ONLINE CHESS by ludius0")
+pygame.display.set_caption("CHESS by ludius0")
 
 selected_piece = None
 
